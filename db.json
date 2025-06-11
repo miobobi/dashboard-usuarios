@@ -1,0 +1,130 @@
+{
+  "peoples": [
+    {
+      "id": 1,
+      "name": "Maria Clara",
+      "email": "maria@email.com",
+      "address": "Rua das Flores, 123",
+      "avatar": "https://i.pravatar.cc/150?img=1"
+    },
+    {
+      "id": 2,
+      "name": "João Pedro",
+      "email": "joao@email.com",
+      "address": "Av. Central, 456",
+      "avatar": "https://i.pravatar.cc/150?img=2"
+    },
+    {
+      "id": 3,
+      "name": "Ana Luiza",
+      "email": "ana@email.com",
+      "address": "Travessa do Norte, 77",
+      "avatar": "https://i.pravatar.cc/150?img=3"
+    },
+    {
+      "id": 4,
+      "name": "Carlos Eduardo",
+      "email": "carlos@email.com",
+      "address": "Rua Brasil, 404",
+      "avatar": "https://i.pravatar.cc/150?img=4"
+    },
+    {
+      "id": 5,
+      "name": "Fernanda Gomes",
+      "email": "fernanda@email.com",
+      "address": "Av. das Palmeiras, 55",
+      "avatar": "https://i.pravatar.cc/150?img=5"
+    },
+    {
+      "id": 6,
+      "name": "Luiz Henrique",
+      "email": "luiz@email.com",
+      "address": "Alameda Maracanã, 321",
+      "avatar": "https://i.pravatar.cc/150?img=6"
+    },
+    {
+      "id": 7,
+      "name": "Juliana Costa",
+      "email": "juliana@email.com",
+      "address": "Rua São João, 19",
+      "avatar": "https://i.pravatar.cc/150?img=7"
+    },
+    {
+      "id": 8,
+      "name": "Pedro Lucas",
+      "email": "pedro@email.com",
+      "address": "Av. Ipiranga, 202",
+      "avatar": "https://i.pravatar.cc/150?img=8"
+    },
+    {
+      "id": 9,
+      "name": "Larissa Souza",
+      "email": "larissa@email.com",
+      "address": "Rua Limeira, 321",
+      "avatar": "https://i.pravatar.cc/150?img=9"
+    },
+    {
+      "id": 10,
+      "name": "Diego Ramos",
+      "email": "diego@email.com",
+      "address": "Rua das Palmeiras, 98",
+      "avatar": "https://i.pravatar.cc/150?img=10"
+    },
+    {
+      "id": 11,
+      "name": "Bianca Martins",
+      "email": "bianca@email.com",
+      "address": "Rua Vitória, 12",
+      "avatar": "https://i.pravatar.cc/150?img=11"
+    },
+    {
+      "id": 12,
+      "name": "Gabriel Silva",
+      "email": "gabriel@email.com",
+      "address": "Rua da Independência, 50",
+      "avatar": "https://i.pravatar.cc/150?img=12"
+    },
+    {
+      "id": 13,
+      "name": "Amanda Rocha",
+      "email": "amanda@email.com",
+      "address": "Rua do Sol, 88",
+      "avatar": "https://i.pravatar.cc/150?img=13"
+    },
+    {
+      "id": 14,
+      "name": "Lucas Lima",
+      "email": "lucas@email.com",
+      "address": "Alameda das Rosas, 67",
+      "avatar": "https://i.pravatar.cc/150?img=14"
+    },
+    {
+      "id": 15,
+      "name": "Isabela Castro",
+      "email": "isabela@email.com",
+      "address": "Rua dos Cravos, 78",
+      "avatar": "https://i.pravatar.cc/150?img=15"
+    },
+    {
+      "id": 16,
+      "name": "Felipe Cardoso",
+      "email": "felipe@email.com",
+      "address": "Rua dos Lírios, 45",
+      "avatar": "https://i.pravatar.cc/150?img=16"
+    },
+    {
+      "id": 17,
+      "name": "Bruna Ribeiro",
+      "email": "bruna@email.com",
+      "address": "Av. da Paz, 22",
+      "avatar": "https://i.pravatar.cc/150?img=17"
+    },
+    {
+      "id": 18,
+      "name": "Renan Oliveira",
+      "email": "renan@email.com",
+      "address": "Rua do Campo, 101",
+      "avatar": "https://i.pravatar.cc/150?img=18"
+    }
+  ]
+}
