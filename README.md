@@ -26,14 +26,6 @@ Um painel moderno e responsivo que lista usuários com paginação e detalhes in
 
 ---
 
-## 📸 Demonstração
-
-| Tela Inicial | Tela de Detalhes |
-|--------------|------------------|
-| ![Listagem](https://via.placeholder.com/400x250?text=Listagem+de+Usu%C3%A1rios) | ![Detalhes](https://via.placeholder.com/400x250?text=Detalhes+do+Usu%C3%A1rio) |
-
----
-
 ## 🛠️ Como Rodar Localmente
 
 ### 1. Clone o repositório
